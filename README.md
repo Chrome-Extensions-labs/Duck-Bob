@@ -2,6 +2,9 @@
 
 A high-throughput, profile-driven logging automation library for browser-based workflows that need deterministic, repeatable text injection and commit semantics.
 
+[![Chrome Store](https://img.shields.io/badge/platform-Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/search/OstinUA)
+[![Chrome Portfolio](https://img.shields.io/badge/Chrome_Web_Store-Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devs-in-exile.pages.dev/extensions)
+
 [![Build](https://img.shields.io/github/actions/workflow/status/OstinUA/Duck-Bob/lint.yml?style=for-the-badge&label=Lint)](https://github.com/OstinUA/Duck-Bob/actions)
 [![Version](https://img.shields.io/badge/version-4.1.0-orange?style=for-the-badge)](./manifest.json)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](./LICENSE)
